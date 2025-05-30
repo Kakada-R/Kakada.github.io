@@ -31,6 +31,7 @@ display: none;
 }    
 ul li a:hover {
     background: rgb(162, 188, 184);
+    width: 68%;
 
     
 }
@@ -42,7 +43,7 @@ ul li:hover ul.dropdown {
 img {
     position: relative;
     left: 30%;
-    width: 20%;
+    width: 30%;
     margin: 10px;
 
 }
@@ -96,3 +97,4 @@ td {
         h4 {
             text-align: center;
         }
+        
